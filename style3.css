@@ -1,0 +1,39 @@
+th, td {
+    text-align: center;
+    }
+h1 {
+    text-align: center;
+}
+
+.a{
+    background-color: pink
+}
+
+.a:hover {
+    background-color: aqua;
+}
+.b {
+    background-color: bisque;
+}
+
+.c {
+    background-color: aquamarine;
+}
+
+.d {
+    background-color: burlywood;
+}
+
+.e {
+    background-color: blueviolet;
+}
+
+.f {
+    background-color: cadetblue;
+}
+
+.abc {
+    background-color: #EAE;
+    text-decoration: none;
+}
+
