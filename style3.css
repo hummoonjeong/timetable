@@ -37,3 +37,44 @@ h1 {
     text-decoration: none;
 }
 
+a {
+    text-decoration: none;
+}
+
+.aq:hover {
+    background-color: rebeccapurple;
+    color: aqua;
+}
+
+.az:hover {
+    background-color: pink;
+    color: white;
+}
+
+.ax:hover {
+    background-color: aquamarine;
+    color: red;
+}
+
+.as:hover {
+    background-color: brown;
+    color: white;
+}
+
+.af:hover {
+    background-color: greenyellow;
+    color: skyblue;
+}
+
+.ag:hover {
+    background-color: blue;
+    color: palevioletred;
+}
+
+.ah:hover {
+    background-color: cyan;
+    color: antiquewhite;
+}
+
+
+
